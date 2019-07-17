@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b228980b-ae3e-4459-a969-99903fb8eb47" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>false</ReferenceAllAssemblies>
+    <ReferencedAssemblies>
+      <ReferencedAssembly AssemblyName="DTO" />
+    </ReferencedAssemblies>
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:51379/SoapService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="SoapService.wsdl" MetadataType="Wsdl" ID="7bf013cd-dd3e-4ed6-8cfc-06eab73d45ab" SourceId="1" SourceUrl="http://localhost:51379/SoapService.svc?wsdl" />
+    <MetadataFile FileName="SoapService.xsd" MetadataType="Schema" ID="1e5f31a9-329e-4b03-a6db-295b64374cc7" SourceId="1" SourceUrl="http://localhost:51379/SoapService.svc?xsd=xsd2" />
+    <MetadataFile FileName="SoapService.disco" MetadataType="Disco" ID="bb869db2-99d9-4b98-9925-a88f8df4ba07" SourceId="1" SourceUrl="http://localhost:51379/SoapService.svc?disco" />
+    <MetadataFile FileName="SoapService1.xsd" MetadataType="Schema" ID="1413f8ae-38e6-4edf-a3bd-1a8e45362361" SourceId="1" SourceUrl="http://localhost:51379/SoapService.svc?xsd=xsd1" />
+    <MetadataFile FileName="SoapService2.xsd" MetadataType="Schema" ID="fcebceca-ec92-4a51-8a74-556399a7c970" SourceId="1" SourceUrl="http://localhost:51379/SoapService.svc?xsd=xsd0" />
+    <MetadataFile FileName="SoapService3.xsd" MetadataType="Schema" ID="de415861-0fe2-4ca6-ba2c-52f90e4e7ee8" SourceId="1" SourceUrl="http://localhost:51379/SoapService.svc?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

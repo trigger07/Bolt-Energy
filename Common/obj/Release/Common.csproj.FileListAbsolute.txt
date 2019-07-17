@@ -1,0 +1,102 @@
+D:\Proyectos\Body_Energy\Proyecto_Codigo\Common\bin\Release\Common.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\Common\bin\Release\Common.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.Unity.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.Unity.Interception.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.Unity.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\Common\obj\Release\Common.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\Common\obj\Release\Common.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\Common\bin\Release\Common.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\Common\bin\Release\Common.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\Common\obj\Release\Common.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\Common\obj\Release\Common.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\Common\bin\Release\Common.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\Common\bin\Release\Common.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.Unity.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.Unity.Interception.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.Unity.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\Common\obj\Release\Common.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\Common\obj\Release\Common.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\Common\bin\Release\Common.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\Common\bin\Release\Common.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.Unity.Interception.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.Unity.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\Common\obj\Release\Common.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\Common\obj\Release\Common.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\Common\bin\Release\Common.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\Common\bin\Release\Common.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.Unity.Interception.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.Unity.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\Common\obj\Release\Common.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\Common\obj\Release\Common.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\Common\bin\Release\Common.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\Common\bin\Release\Common.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.Unity.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\Common\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\Common\obj\Release\Common.csproj.CopyComplete
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\Common\obj\Release\Common.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\Common\obj\Release\Common.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\Common\bin\Release\Common.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\Common\bin\Release\Common.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\Common\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\Common\bin\Release\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\Common\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\Common\bin\Release\Microsoft.Practices.Unity.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\Common\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\Common\obj\Release\Common.csproj.CopyComplete
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\Common\obj\Release\Common.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\Common\obj\Release\Common.pdb

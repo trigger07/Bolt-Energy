@@ -1,0 +1,77 @@
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\bin\GYM.Service.dll.config
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\bin\GYM.Service.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\bin\GYM.Service.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\bin\Common.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\bin\DAO.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\bin\DTO.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\bin\itextsharp.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.Unity.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\bin\Common.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\bin\DAO.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\bin\DTO.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.Unity.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\obj\Debug\GYM.Service.csprojResolveAssemblyReference.cache
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\obj\Debug\GYM.Service.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\GYM.Service\obj\Debug\GYM.Service.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\bin\GYM.Service.dll.config
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\bin\GYM.Service.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\bin\GYM.Service.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\bin\Common.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\bin\DAO.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\bin\DTO.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.Unity.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\bin\Common.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\bin\DAO.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\bin\DTO.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.Unity.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\obj\Debug\GYM.Service.csprojResolveAssemblyReference.cache
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\obj\Debug\GYM.Service.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\obj\Debug\GYM.Service.csproj.CopyComplete
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\obj\Debug\GYM.Service.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\GYM.Service\obj\Debug\GYM.Service.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\bin\GYM.Service.dll.config
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\bin\GYM.Service.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\bin\GYM.Service.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\bin\Common.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\bin\DAO.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\bin\DTO.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\bin\Microsoft.Practices.Unity.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\bin\Common.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\bin\DAO.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\bin\DTO.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\bin\Microsoft.Practices.Unity.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\obj\Debug\GYM.Service.csprojResolveAssemblyReference.cache
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\obj\Debug\GYM.Service.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\obj\Debug\GYM.Service.csproj.CopyComplete
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\obj\Debug\GYM.Service.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\GYM.Service\obj\Debug\GYM.Service.pdb

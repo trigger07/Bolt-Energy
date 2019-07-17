@@ -1,0 +1,813 @@
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.exe.config
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.exe.manifest
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.application
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.exe
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Common.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\DAO.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\DTO.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Office.Interop.Access.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\ReuxablesLegacy.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\WPFToolkit.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Office.Interop.SmartTag.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Interception.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.HostAdapter.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.HostAdapterV5.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Common.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\DAO.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\DTO.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Office.Interop.Excel.xml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.xml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\WPFToolkit.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.xml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.xml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Configuration.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaAsistencia.baml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaContactoEmpresa.baml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaEmpresa.baml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaSocio.baml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaTransaccion.baml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ConfirmarAsistencia.baml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ContactoEmpresa.baml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Empresa.baml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Login.baml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Principal.baml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Socio.baml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Transaccion.baml
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaAsistencia.g.cs
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaContactoEmpresa.g.cs
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaEmpresa.g.cs
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaSocio.g.cs
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaTransaccion.g.cs
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ConfirmarAsistencia.g.cs
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ContactoEmpresa.g.cs
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Empresa.g.cs
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Login.g.cs
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Principal.g.cs
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Socio.g.cs
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Transaccion.g.cs
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\App.g.cs
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy_MarkupCompile.cache
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.g.resources
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.Properties.Resources.resources
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.exe.manifest
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.application
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.exe
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.pdb
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.csprojResolveAssemblyReference.cache
+D:\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.csproj.GenerateResource.Cache
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.csprojResolveAssemblyReference.cache
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaAsistencia.baml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaContactoEmpresa.baml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaEmpresa.baml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaSocio.baml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaTransaccion.baml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ConfirmarAsistencia.baml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ContactoEmpresa.baml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Empresa.baml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Login.baml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Principal.baml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Socio.baml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Transaccion.baml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaAsistencia.g.cs
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaContactoEmpresa.g.cs
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaEmpresa.g.cs
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaSocio.g.cs
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaTransaccion.g.cs
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ConfirmarAsistencia.g.cs
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ContactoEmpresa.g.cs
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Empresa.g.cs
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Login.g.cs
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Principal.g.cs
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Socio.g.cs
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Transaccion.g.cs
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\App.g.cs
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy_MarkupCompile.cache
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.g.resources
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.Properties.Resources.resources
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.csproj.GenerateResource.Cache
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.exe.config
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.exe.manifest
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.application
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.exe
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Common.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\DAO.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\DTO.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Office.interop.access.dao.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Office.Interop.Access.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Office.Interop.Excel.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\ReuxablesLegacy.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Vbe.Interop.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Office.Interop.SmartTag.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Interception.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.HostAdapter.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.HostAdapterV5.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Common.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\DAO.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\DTO.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Office.Interop.Excel.xml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.xml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\WPFToolkit.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.xml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.xml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Configuration.pdb
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.exe.manifest
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.application
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.exe
+F:\gtr\vaio\Proyectos\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.exe.config
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.exe
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.exe.manifest
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.application
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.exe
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Common.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\DAO.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\DTO.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\ReuxablesLegacy.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Vbe.Interop.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Office.Interop.SmartTag.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Interception.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.HostAdapter.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.HostAdapterV5.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Common.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\DAO.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\DTO.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Office.Interop.Excel.xml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.xml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\WPFToolkit.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.xml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.xml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Configuration.pdb
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.csprojResolveAssemblyReference.cache
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaAsistencia.baml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaContactoEmpresa.baml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaEmpresa.baml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaSocio.baml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaTransaccion.baml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ConfirmarAsistencia.baml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ContactoEmpresa.baml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Empresa.baml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Login.baml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Principal.baml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Socio.baml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Transaccion.baml
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaAsistencia.g.cs
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaContactoEmpresa.g.cs
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaEmpresa.g.cs
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaSocio.g.cs
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaTransaccion.g.cs
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ConfirmarAsistencia.g.cs
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ContactoEmpresa.g.cs
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Empresa.g.cs
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Login.g.cs
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Principal.g.cs
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Socio.g.cs
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Transaccion.g.cs
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\App.g.cs
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy_MarkupCompile.cache
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.g.resources
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.Properties.Resources.resources
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.csproj.GenerateResource.Cache
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.exe.manifest
+D:\Proyectos-Think\Body_Energy\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.application
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.exe.config
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.exe.manifest
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.application
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.exe
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Common.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\DAO.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\DTO.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\ReuxablesLegacy.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Interception.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.HostAdapter.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.HostAdapterV5.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Common.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\DAO.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\DTO.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.xml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.xml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.xml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.csprojResolveAssemblyReference.cache
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaAsistencia.baml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaContactoEmpresa.baml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaEmpresa.baml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaSocio.baml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaTransaccion.baml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ConfirmarAsistencia.baml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ContactoEmpresa.baml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Empresa.baml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Login.baml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Principal.baml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Socio.baml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Transaccion.baml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaAsistencia.g.cs
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaContactoEmpresa.g.cs
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaEmpresa.g.cs
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaSocio.g.cs
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaTransaccion.g.cs
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ConfirmarAsistencia.g.cs
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ContactoEmpresa.g.cs
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Empresa.g.cs
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Login.g.cs
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Principal.g.cs
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Socio.g.cs
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Transaccion.g.cs
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\App.g.cs
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy_MarkupCompile.cache
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.g.resources
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.Properties.Resources.resources
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.csproj.GenerateResource.Cache
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.exe.manifest
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.application
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.exe
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\App.baml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\MahApps.Metro.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\System.Windows.Interactivity.dll
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\MahApps.Metro.pdb
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\MahApps.Metro.xml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Resources\Icons.baml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Resources\IconsNonShared.baml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Main.baml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Main.g.cs
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\RegistrarAsistencia.baml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\RegistrarAsistencia.g.cs
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaSocioAsistencia.baml
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaSocioAsistencia.g.cs
+C:\Users\gt19813\Documents\Personal\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Office.Interop.SmartTag.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.exe.config
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.exe
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.exe.manifest
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.application
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.exe
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Common.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\DAO.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\DTO.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\MahApps.Metro.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\ReuxablesLegacy.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\System.Windows.Interactivity.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Office.Interop.SmartTag.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Interception.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.HostAdapter.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.HostAdapterV5.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Common.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\DAO.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\DTO.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\MahApps.Metro.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\MahApps.Metro.xml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.xml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.xml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.xml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Configuration.pdb
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.csprojResolveAssemblyReference.cache
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaAsistencia.baml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaContactoEmpresa.baml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaEmpresa.baml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaSocio.baml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaSocioAsistencia.baml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaTransaccion.baml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ConfirmarAsistencia.baml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ContactoEmpresa.baml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Empresa.baml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Login.baml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Main.baml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Principal.baml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\RegistrarAsistencia.baml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Resources\Icons.baml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Resources\IconsNonShared.baml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Socio.baml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Transaccion.baml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\App.baml
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaAsistencia.g.cs
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaContactoEmpresa.g.cs
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaEmpresa.g.cs
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaSocio.g.cs
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaSocioAsistencia.g.cs
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaTransaccion.g.cs
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ConfirmarAsistencia.g.cs
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ContactoEmpresa.g.cs
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Empresa.g.cs
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Login.g.cs
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Main.g.cs
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Principal.g.cs
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\RegistrarAsistencia.g.cs
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Socio.g.cs
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Transaccion.g.cs
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\App.g.cs
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy_MarkupCompile.cache
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.g.resources
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.Properties.Resources.resources
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.csproj.GenerateResource.Cache
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.exe.manifest
+D:\Proyectos-Think\BEFB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.application
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.exe.config
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.exe.manifest
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.application
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.exe
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Common.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\DTO.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\MahApps.Metro.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\ReuxablesLegacy.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\System.Windows.Interactivity.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Interception.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.HostAdapter.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.HostAdapterV5.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Common.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\DTO.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\MahApps.Metro.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\MahApps.Metro.xml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.xml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.xml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.xml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.csprojResolveAssemblyReference.cache
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaAsistencia.baml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaContactoEmpresa.baml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaEmpresa.baml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaSocio.baml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaSocioAsistencia.baml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaTransaccion.baml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ConfirmarAsistencia.baml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ContactoEmpresa.baml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Empresa.baml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Login.baml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Main.baml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\RegistrarAsistencia.baml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Resources\Icons.baml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Resources\IconsNonShared.baml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Socio.baml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Transaccion.baml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\App.baml
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaAsistencia.g.cs
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaContactoEmpresa.g.cs
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaEmpresa.g.cs
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaSocio.g.cs
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaSocioAsistencia.g.cs
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaTransaccion.g.cs
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ConfirmarAsistencia.g.cs
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ContactoEmpresa.g.cs
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Empresa.g.cs
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Login.g.cs
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Main.g.cs
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\RegistrarAsistencia.g.cs
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Socio.g.cs
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Transaccion.g.cs
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\App.g.cs
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy_MarkupCompile.cache
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.g.resources
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.Properties.Resources.resources
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.csproj.GenerateResource.Cache
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.exe.manifest
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.application
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.exe
+C:\Users\gt19813\Desktop\prs\GYM\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.exe.config
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.exe.manifest
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.application
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.exe
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\BodyEnergy.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Common.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\DTO.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\MahApps.Metro.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\ReuxablesLegacy.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.HostAdapter.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.HostAdapterV5.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Common.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\DTO.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\MahApps.Metro.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\MahApps.Metro.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.csprojResolveAssemblyReference.cache
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaAsistencia.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaContactoEmpresa.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaEmpresa.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaSocio.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaSocioAsistencia.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaTransaccion.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ConfirmarAsistencia.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ContactoEmpresa.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Empresa.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Login.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Main.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\RegistrarAsistencia.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Resources\Icons.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Resources\IconsNonShared.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Socio.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Transaccion.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\App.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaAsistencia.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaContactoEmpresa.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaEmpresa.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaSocio.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaSocioAsistencia.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BusquedaTransaccion.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ConfirmarAsistencia.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\ContactoEmpresa.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Empresa.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Login.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Main.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\RegistrarAsistencia.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Socio.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\Transaccion.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\App.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy_MarkupCompile.cache
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.g.resources
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.Properties.Resources.resources
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.csproj.GenerateResource.cache
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.exe.manifest
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.application
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.csproj.CopyComplete
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.exe
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Proyecto_Codigo\BodyEnergy\obj\x86\Release\BodyEnergy.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\BodyEnergy.exe.config
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\BodyEnergy.exe.manifest
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\BodyEnergy.application
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\BodyEnergy.exe
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\BodyEnergy.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Common.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\DTO.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\MahApps.Metro.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\ReuxablesLegacy.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.HostAdapter.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.HostAdapterV5.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Common.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\DTO.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\MahApps.Metro.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\MahApps.Metro.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.Unity.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\bin\Release\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BodyEnergy.csprojResolveAssemblyReference.cache
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BusquedaAsistencia.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BusquedaContactoEmpresa.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BusquedaEmpresa.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BusquedaSocio.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BusquedaSocioAsistencia.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BusquedaTransaccion.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\ConfirmarAsistencia.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\ContactoEmpresa.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\Empresa.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\Login.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\Main.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\RegistrarAsistencia.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\Resources\Icons.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\Resources\IconsNonShared.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\Socio.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\Transaccion.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\App.baml
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BusquedaAsistencia.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BusquedaContactoEmpresa.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BusquedaEmpresa.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BusquedaSocio.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BusquedaSocioAsistencia.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BusquedaTransaccion.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\ConfirmarAsistencia.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\ContactoEmpresa.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\Empresa.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\Login.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\Main.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\RegistrarAsistencia.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\Socio.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\Transaccion.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\App.g.cs
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BodyEnergy_MarkupCompile.cache
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BodyEnergy.g.resources
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BodyEnergy.Properties.Resources.resources
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BodyEnergy.csproj.GenerateResource.cache
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BodyEnergy.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BodyEnergy.exe.manifest
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BodyEnergy.application
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BodyEnergy.csproj.CopyComplete
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BodyEnergy.exe
+C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Bolt-Energy\BodyEnergy\obj\x86\Release\BodyEnergy.pdb

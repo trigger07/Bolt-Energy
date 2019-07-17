@@ -1,0 +1,66 @@
+﻿<controls:MetroWindow x:Class="BodyEnergy.ContactoEmpresa"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="ContactoEmpresaW"
+        xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="Contacto de Empresa" Height="340" Width="600" ResizeMode="NoResize" ShowInTaskbar="True" 
+        Topmost="False" WindowStartupLocation="CenterScreen" WindowStyle="ThreeDBorderWindow" 
+        Icon="/BodyEnergy;component/Imagenes_Sistema/CLIMB (8).png" Closing="Window_Closing">
+    <DockPanel LastChildFill="True">
+        <Border DockPanel.Dock="Top" Height="20" Background="#0A000000">
+
+        </Border>
+        <Border Height="70" DockPanel.Dock="Bottom" Background="#36000000">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="278*" />
+                    <ColumnDefinition Width="298*" />
+                </Grid.ColumnDefinitions>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Grid.Column="2">
+                    <Button  Margin="0,0,0,0" Height="50" Style="{DynamicResource MetroCircleButtonStyle}" HorizontalAlignment="Center"  Name="btn_Actualizar" VerticalAlignment="Center" Width="50" Click="btn_Actualizar_Click" TabIndex="10">
+                        <Image Stretch="Fill" Height="25" Width="25" Source="/BodyEnergy;component/Imagenes_Sistema/save_red.png" ToolTip="Actualizar Datos" Cursor="Hand" />
+                    </Button>
+                    <Button  Margin="0,0,0,0" Style="{DynamicResource MetroCircleButtonStyle}" Height="50" HorizontalAlignment="Center"  Name="btn_Guardar" VerticalAlignment="Center" Width="50" Click="btn_Guardar_Click" TabIndex="11">
+                        <Image Stretch="Fill" Height="25" Width="25" Source="/BodyEnergy;component/Imagenes_Sistema/save_red.png" ToolTip="Guardar Datos" Cursor="Hand" />
+                    </Button>
+                    <Button  Margin="0,0,0,0" Style="{DynamicResource MetroCircleButtonStyle}" Height="50" HorizontalAlignment="Center"  Name="btn_Limpiar" VerticalAlignment="Center" Width="50" Click="btn_Limpiar_Click" TabIndex="12">
+                        <Image Stretch="Fill" Height="25" Width="25" Source="/BodyEnergy;component/Imagenes_Sistema/trash_red.png" ToolTip="Limpiar Controles" Cursor="Hand" />
+                    </Button>
+                    <Button  Margin="0,0,5,0" Style="{DynamicResource MetroCircleButtonStyle}" Height="50" HorizontalAlignment="Center"  Name="btn_Salir" VerticalAlignment="Center" Width="50" Click="btn_Salir_Click" TabIndex="13">
+                        <Image Stretch="Fill" Height="25" Width="25" Source="/BodyEnergy;component/Imagenes_Sistema/equiz_red.png" ToolTip="Cerrar Ventana" Cursor="Hand" />
+                    </Button>
+                </StackPanel>
+            </Grid>
+        </Border>
+        <Border Background="#0A000000">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="55*" />
+                    <RowDefinition Height="57*" />
+                    <RowDefinition Height="77*" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="192" />
+                    <ColumnDefinition Width="192" />
+                    <ColumnDefinition Width="192" />
+                </Grid.ColumnDefinitions>
+                <Label Content="Nombre" FontSize="14" Height="28" HorizontalAlignment="Left"  Name="lbl_Nombre" VerticalAlignment="Top" Margin="30,1,0,0" />
+                <TextBox Height="28" HorizontalAlignment="Left" Name="txt_Nombre" VerticalAlignment="Top" Width="146" Margin="30,27,0,0" TabIndex="1" MaxLength="45" ToolTip="Nombre" VerticalContentAlignment="Center" FontSize="14" BorderBrush="DarkRed" />
+                <Label Content="Primer Apellido" FontSize="14" Grid.Column="1" Height="28" HorizontalAlignment="Left"  Name="lbl_Apellido1" VerticalAlignment="Top" Margin="21,1,0,0" />
+                <TextBox Grid.Column="1" Height="28"  HorizontalAlignment="Left"  Name="txt_Apellido1" Width="146" Margin="21,27,0,0" TabIndex="2" MaxLength="45" ToolTip="Primer Apellido" VerticalContentAlignment="Center" FontSize="14" BorderBrush="DarkRed" VerticalAlignment="Top" />
+                <Label Content="Segundo Apellido" FontSize="14" Grid.Column="2" Height="28" HorizontalAlignment="Left"  Name="lbl_Apellido2" VerticalAlignment="Top" Margin="14,1,0,0" />
+                <TextBox Grid.Column="2" Height="28" HorizontalAlignment="Left"  Name="txt_Apellido2" VerticalAlignment="Top" Width="146" Margin="14,27,0,0" TabIndex="3" MaxLength="45" ToolTip="Segundo Apellido" VerticalContentAlignment="Center" FontSize="14" />
+                <Label Content="Teléfono 1" FontSize="14" Height="28" HorizontalAlignment="Left"  Name="lbl_Telefono1" VerticalAlignment="Top" Margin="30,6,0,0" Grid.Row="1" />
+                <TextBox Height="28" HorizontalAlignment="Left"  Name="txt_telefono1" VerticalAlignment="Top" Width="146" Margin="30,32,0,0" Grid.Row="1" TabIndex="4" MaxLength="15" ToolTip="Primer Teléfono" VerticalContentAlignment="Center" FontSize="14" BorderBrush="DarkRed" />
+                <Label Content="Teléfono 2" FontSize="14" Grid.Column="1" Height="28" HorizontalAlignment="Left" Name="lbl_Telefono2" VerticalAlignment="Top" Margin="21,6,0,0" Grid.Row="1" />
+                <TextBox Grid.Column="1" Height="28" HorizontalAlignment="Left" Name="txt_Telefono2" VerticalAlignment="Top" Width="146" Margin="21,32,0,0" Grid.Row="1" TabIndex="5" MaxLength="15" ToolTip="Primer Teléfono" VerticalContentAlignment="Center" FontSize="14" />
+                <Label Content="Estado" FontSize="14" Grid.Column="2" Height="28" HorizontalAlignment="Left"  Name="lbl_Estado" VerticalAlignment="Top" Margin="14,6,0,0" Grid.Row="1" />
+                <CheckBox Content="Activo" FontSize="14" Grid.Column="2" Height="24" HorizontalAlignment="Left"  Name="chk_Activo" VerticalAlignment="Top" Checked="chk_Activo_Checked" Margin="14,33,0,0" Grid.Row="1" TabIndex="6" ToolTip="Activo" BorderBrush="DarkRed" />
+                <CheckBox Content="Inactivo" FontSize="14" Grid.Column="2" Height="24" HorizontalAlignment="Left"  Name="chk_Inactivo" VerticalAlignment="Top" Checked="chk_Inactivo_Checked" Margin="84,33,0,0" Grid.Row="1" TabIndex="7" ToolTip="Inactivo" BorderBrush="DarkRed" />
+                <Label Content="Correo Electrónico" FontSize="14" Height="28" HorizontalAlignment="Left"  Name="lbl_Correo" VerticalAlignment="Top" Margin="30,4,0,0" Grid.Row="2" />
+                <TextBox Height="28" HorizontalAlignment="Left"  Name="txt_Correo" VerticalAlignment="Top" Width="238" Grid.ColumnSpan="2" Margin="30,30,0,0" Grid.Row="2" TabIndex="8" MaxLength="45" ToolTip="Correo Electrónico" VerticalContentAlignment="Center" FontSize="14" />
+                <Label Content="Empresa" Height="28" FontSize="14" HorizontalAlignment="Left"  Name="lbl_Empresa" VerticalAlignment="Top" Grid.Column="1" Margin="86,4,0,0" Grid.Row="2" Width="71" />
+                <ComboBox Height="28" HorizontalAlignment="Left"  Name="cbo_Empresa" VerticalAlignment="Top" Width="266" Grid.ColumnSpan="2" Grid.Column="1" Margin="86,30,0,0" Grid.Row="2" TabIndex="9" ToolTip="Empresa" VerticalContentAlignment="Center" FontSize="14" BorderBrush="DarkRed" Background="White" />
+            </Grid>
+        </Border>
+    </DockPanel>
+</controls:MetroWindow>

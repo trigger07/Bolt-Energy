@@ -1,0 +1,106 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BodyEnergy", "BodyEnergy\BodyEnergy.csproj", "{609B94E3-B199-4DDB-9D64-9FDEAC2AE5E8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{087AC322-F4FC-4BEB-BAC0-9C6559B09BB4} = {087AC322-F4FC-4BEB-BAC0-9C6559B09BB4}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{F896C38C-4D37-4E43-86C8-305E489A6FCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{5606C7D6-29F4-4657-A831-C6726FDAB604}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{79D32664-E4B3-4962-8BE2-341B94AE8BEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GYM.Service", "GYM.Service\GYM.Service.csproj", "{087AC322-F4FC-4BEB-BAC0-9C6559B09BB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{609B94E3-B199-4DDB-9D64-9FDEAC2AE5E8}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{609B94E3-B199-4DDB-9D64-9FDEAC2AE5E8}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{609B94E3-B199-4DDB-9D64-9FDEAC2AE5E8}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{609B94E3-B199-4DDB-9D64-9FDEAC2AE5E8}.Debug|x86.ActiveCfg = Debug|x86
+		{609B94E3-B199-4DDB-9D64-9FDEAC2AE5E8}.Debug|x86.Build.0 = Debug|x86
+		{609B94E3-B199-4DDB-9D64-9FDEAC2AE5E8}.Release|Any CPU.ActiveCfg = Release|x86
+		{609B94E3-B199-4DDB-9D64-9FDEAC2AE5E8}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{609B94E3-B199-4DDB-9D64-9FDEAC2AE5E8}.Release|Mixed Platforms.Build.0 = Release|x86
+		{609B94E3-B199-4DDB-9D64-9FDEAC2AE5E8}.Release|x86.ActiveCfg = Release|x86
+		{609B94E3-B199-4DDB-9D64-9FDEAC2AE5E8}.Release|x86.Build.0 = Release|x86
+		{F896C38C-4D37-4E43-86C8-305E489A6FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F896C38C-4D37-4E43-86C8-305E489A6FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F896C38C-4D37-4E43-86C8-305E489A6FCF}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F896C38C-4D37-4E43-86C8-305E489A6FCF}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F896C38C-4D37-4E43-86C8-305E489A6FCF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F896C38C-4D37-4E43-86C8-305E489A6FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F896C38C-4D37-4E43-86C8-305E489A6FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F896C38C-4D37-4E43-86C8-305E489A6FCF}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F896C38C-4D37-4E43-86C8-305E489A6FCF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F896C38C-4D37-4E43-86C8-305E489A6FCF}.Release|x86.ActiveCfg = Release|Any CPU
+		{5606C7D6-29F4-4657-A831-C6726FDAB604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5606C7D6-29F4-4657-A831-C6726FDAB604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5606C7D6-29F4-4657-A831-C6726FDAB604}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{5606C7D6-29F4-4657-A831-C6726FDAB604}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{5606C7D6-29F4-4657-A831-C6726FDAB604}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5606C7D6-29F4-4657-A831-C6726FDAB604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5606C7D6-29F4-4657-A831-C6726FDAB604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5606C7D6-29F4-4657-A831-C6726FDAB604}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{5606C7D6-29F4-4657-A831-C6726FDAB604}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{5606C7D6-29F4-4657-A831-C6726FDAB604}.Release|x86.ActiveCfg = Release|Any CPU
+		{79D32664-E4B3-4962-8BE2-341B94AE8BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D32664-E4B3-4962-8BE2-341B94AE8BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D32664-E4B3-4962-8BE2-341B94AE8BEE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{79D32664-E4B3-4962-8BE2-341B94AE8BEE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{79D32664-E4B3-4962-8BE2-341B94AE8BEE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{79D32664-E4B3-4962-8BE2-341B94AE8BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D32664-E4B3-4962-8BE2-341B94AE8BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79D32664-E4B3-4962-8BE2-341B94AE8BEE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{79D32664-E4B3-4962-8BE2-341B94AE8BEE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{79D32664-E4B3-4962-8BE2-341B94AE8BEE}.Release|x86.ActiveCfg = Release|Any CPU
+		{087AC322-F4FC-4BEB-BAC0-9C6559B09BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087AC322-F4FC-4BEB-BAC0-9C6559B09BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087AC322-F4FC-4BEB-BAC0-9C6559B09BB4}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{087AC322-F4FC-4BEB-BAC0-9C6559B09BB4}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{087AC322-F4FC-4BEB-BAC0-9C6559B09BB4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{087AC322-F4FC-4BEB-BAC0-9C6559B09BB4}.Debug|x86.Build.0 = Debug|Any CPU
+		{087AC322-F4FC-4BEB-BAC0-9C6559B09BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087AC322-F4FC-4BEB-BAC0-9C6559B09BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{087AC322-F4FC-4BEB-BAC0-9C6559B09BB4}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{087AC322-F4FC-4BEB-BAC0-9C6559B09BB4}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{087AC322-F4FC-4BEB-BAC0-9C6559B09BB4}.Release|x86.ActiveCfg = Release|Any CPU
+		{087AC322-F4FC-4BEB-BAC0-9C6559B09BB4}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://gersontrigueros.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BodyEnergy\\BodyEnergy.csproj
+		SccProjectName1 = BodyEnergy
+		SccLocalPath1 = BodyEnergy
+		SccProjectUniqueName2 = Common\\Common.csproj
+		SccProjectName2 = Common
+		SccLocalPath2 = Common
+		SccProjectUniqueName3 = DAO\\DAO.csproj
+		SccProjectName3 = DAO
+		SccLocalPath3 = DAO
+		SccProjectUniqueName4 = DTO\\DTO.csproj
+		SccProjectName4 = DTO
+		SccLocalPath4 = DTO
+		SccProjectUniqueName5 = GYM.Service\\GYM.Service.csproj
+		SccProjectName5 = GYM.Service
+		SccLocalPath5 = GYM.Service
+	EndGlobalSection
+EndGlobal

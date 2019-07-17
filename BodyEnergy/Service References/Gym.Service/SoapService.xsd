@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Data.DTO" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Data.DTO" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:51379/SoapService.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/Common" />
+  <xs:complexType name="SeguridadDTO">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q1="http://schemas.datacontract.org/2004/07/Common" base="q1:BaseDTO">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Apellido1" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Apellido2" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="CodUsuario" type="xs:int" />
+          <xs:element minOccurs="0" name="Nombre" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Password" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="RolDescripcion" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Usuario" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="SeguridadDTO" nillable="true" type="tns:SeguridadDTO" />
+  <xs:complexType name="AsistenciaDTO">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q2="http://schemas.datacontract.org/2004/07/Common" base="q2:BaseDTO">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CodAsistencia" type="xs:int" />
+          <xs:element minOccurs="0" name="CodSocio" type="xs:int" />
+          <xs:element minOccurs="0" name="Descripcion" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="EsActivo" type="xs:boolean" />
+          <xs:element minOccurs="0" name="FechaAsistencia" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="FechaCreacion" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="FechaModificacion" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="UsuarioCreacion" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="UsuarioModificacion" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="AsistenciaDTO" nillable="true" type="tns:AsistenciaDTO" />
+  <xs:complexType name="ArrayOfEmpresaDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="EmpresaDTO" nillable="true" type="tns:EmpresaDTO" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfEmpresaDTO" nillable="true" type="tns:ArrayOfEmpresaDTO" />
+  <xs:complexType name="EmpresaDTO">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q3="http://schemas.datacontract.org/2004/07/Common" base="q3:BaseDTO">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CodEmpresa" type="xs:int" />
+          <xs:element minOccurs="0" name="Correo" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Descripcion" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="EsActivo" type="xs:boolean" />
+          <xs:element minOccurs="0" name="FechaCreacion" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="FechaModificacion" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="NombreEmpresa" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Telefono1" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Telefono2" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="UsuarioCreacion" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="UsuarioModificacion" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="EmpresaDTO" nillable="true" type="tns:EmpresaDTO" />
+  <xs:complexType name="ContactoEmpresaDTO">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q4="http://schemas.datacontract.org/2004/07/Common" base="q4:BaseDTO">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Apellido1" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Apellido2" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="CodContactoEmpresa" type="xs:int" />
+          <xs:element minOccurs="0" name="CodEmpresa" type="xs:int" />
+          <xs:element minOccurs="0" name="Correo" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="EsActivo" type="xs:boolean" />
+          <xs:element minOccurs="0" name="FechaCreacion" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="FechaModificacion" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Nombre" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Telefono1" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Telefono2" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="UsuarioCreacion" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="UsuarioModificacion" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="ContactoEmpresaDTO" nillable="true" type="tns:ContactoEmpresaDTO" />
+  <xs:complexType name="TipoSocioDTO">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q5="http://schemas.datacontract.org/2004/07/Common" base="q5:BaseDTO">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CodTipoSocio" type="xs:int" />
+          <xs:element minOccurs="0" name="Descripcion" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Detalle" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="EsActivo" type="xs:boolean" />
+          <xs:element minOccurs="0" name="FechaCreacion" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="FechaModificacion" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="UsuarioCreacion" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="UsuarioModificacion" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="TipoSocioDTO" nillable="true" type="tns:TipoSocioDTO" />
+  <xs:complexType name="ArrayOfTipoSocioDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="TipoSocioDTO" nillable="true" type="tns:TipoSocioDTO" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTipoSocioDTO" nillable="true" type="tns:ArrayOfTipoSocioDTO" />
+  <xs:complexType name="SocioDTO">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q6="http://schemas.datacontract.org/2004/07/Common" base="q6:BaseDTO">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Apellido1" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Apellido2" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="CodEmpresa" type="xs:int" />
+          <xs:element minOccurs="0" name="CodFecVencimiento" type="xs:int" />
+          <xs:element minOccurs="0" name="CodSocio" type="xs:int" />
+          <xs:element minOccurs="0" name="CodTipoSocio" type="xs:int" />
+          <xs:element minOccurs="0" name="Correo" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="DescripcionFecha" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="DiaPago" type="xs:int" />
+          <xs:element minOccurs="0" name="EsActivo" type="xs:boolean" />
+          <xs:element minOccurs="0" name="FechaCreacion" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="FechaModificacion" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="FechaNacimiento" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="FechaVencimiento" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Imagen" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Nombre" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="TelCelular" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="TelResidencia" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="UsuarioCreacion" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="UsuarioModificacion" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="SocioDTO" nillable="true" type="tns:SocioDTO" />
+  <xs:complexType name="FechaVencimientoDTO">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q7="http://schemas.datacontract.org/2004/07/Common" base="q7:BaseDTO">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CodFecVencimiento" type="xs:int" />
+          <xs:element minOccurs="0" name="CodRetorno" type="xs:int" />
+          <xs:element minOccurs="0" name="CodSocio" type="xs:int" />
+          <xs:element minOccurs="0" name="Descripcion" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Dia" type="xs:int" />
+          <xs:element minOccurs="0" name="FechaCreacion" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="FechaModificacion" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="FechaVencimiento" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="UsuarioCreacion" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="UsuarioModificacion" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="FechaVencimientoDTO" nillable="true" type="tns:FechaVencimientoDTO" />
+  <xs:complexType name="TransaccionDTO">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q8="http://schemas.datacontract.org/2004/07/Common" base="q8:BaseDTO">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CodCatPago" type="xs:int" />
+          <xs:element minOccurs="0" name="CodSocio" type="xs:int" />
+          <xs:element minOccurs="0" name="CodTipoPago" type="xs:int" />
+          <xs:element minOccurs="0" name="CodTransaccion" type="xs:int" />
+          <xs:element minOccurs="0" name="Descripcion" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Detalle" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="EsActivo" type="xs:boolean" />
+          <xs:element minOccurs="0" name="FechaCreacion" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="FechaModificacion" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="FechaTransaccion" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Monto" type="xs:decimal" />
+          <xs:element minOccurs="0" name="NumComprobante" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="NumReciboGym" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="UsuarioCreacion" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="UsuarioModificacion" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="TransaccionDTO" nillable="true" type="tns:TransaccionDTO" />
+  <xs:complexType name="ArrayOfTipoPagoDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="TipoPagoDTO" nillable="true" type="tns:TipoPagoDTO" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTipoPagoDTO" nillable="true" type="tns:ArrayOfTipoPagoDTO" />
+  <xs:complexType name="TipoPagoDTO">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q9="http://schemas.datacontract.org/2004/07/Common" base="q9:BaseDTO">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CodTipoPago" type="xs:int" />
+          <xs:element minOccurs="0" name="Descripcion" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="TipoPagoDTO" nillable="true" type="tns:TipoPagoDTO" />
+  <xs:complexType name="ArrayOfCategoriaPagoDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="CategoriaPagoDTO" nillable="true" type="tns:CategoriaPagoDTO" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCategoriaPagoDTO" nillable="true" type="tns:ArrayOfCategoriaPagoDTO" />
+  <xs:complexType name="CategoriaPagoDTO">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q10="http://schemas.datacontract.org/2004/07/Common" base="q10:BaseDTO">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CodCatPago" type="xs:int" />
+          <xs:element minOccurs="0" name="Descripcion" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="CategoriaPagoDTO" nillable="true" type="tns:CategoriaPagoDTO" />
+</xs:schema>

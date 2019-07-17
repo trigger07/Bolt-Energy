@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Gerson Trigueros\Documents\Projects\CLIMB\Deploy\BoltEnergy\Service</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Common.dll">
+      <publishTime>06/18/2018 21:42:09</publishTime>
+    </File>
+    <File Include="bin/Common.pdb">
+      <publishTime>06/18/2018 21:42:09</publishTime>
+    </File>
+    <File Include="bin/DAO.dll">
+      <publishTime>06/18/2018 21:42:09</publishTime>
+    </File>
+    <File Include="bin/DAO.pdb">
+      <publishTime>06/18/2018 21:42:09</publishTime>
+    </File>
+    <File Include="bin/DTO.dll">
+      <publishTime>06/18/2018 21:42:09</publishTime>
+    </File>
+    <File Include="bin/DTO.pdb">
+      <publishTime>06/18/2018 21:42:09</publishTime>
+    </File>
+    <File Include="bin/GYM.Service.dll">
+      <publishTime>06/18/2018 21:42:09</publishTime>
+    </File>
+    <File Include="bin/GYM.Service.pdb">
+      <publishTime>06/18/2018 21:42:09</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>05/24/2014 04:17:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll">
+      <publishTime>04/16/2010 14:16:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Common.pdb">
+      <publishTime>04/16/2010 14:11:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Data.dll">
+      <publishTime>04/16/2010 14:16:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Data.pdb">
+      <publishTime>04/16/2010 14:11:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ServiceLocation.dll">
+      <publishTime>04/16/2010 14:16:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ServiceLocation.pdb">
+      <publishTime>04/16/2010 13:42:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.dll">
+      <publishTime>04/16/2010 13:42:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.Interception.dll">
+      <publishTime>04/16/2010 13:42:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.Interception.pdb">
+      <publishTime>04/16/2010 13:42:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.pdb">
+      <publishTime>04/16/2010 13:42:32</publishTime>
+    </File>
+    <File Include="SoapService.svc">
+      <publishTime>04/03/2018 17:47:24</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/18/2018 21:42:10</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

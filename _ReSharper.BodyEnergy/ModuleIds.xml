@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="609B94E3-B199-4DDB-9D64-9FDEAC2AE5E8" ModuleId="BodyEnergy" />
+  <Module PersistentId="79D32664-E4B3-4962-8BE2-341B94AE8BEE" ModuleId="DTO" />
+  <Module PersistentId="F896C38C-4D37-4E43-86C8-305E489A6FCF" ModuleId="Common" />
+  <Module PersistentId="5606C7D6-29F4-4657-A831-C6726FDAB604" ModuleId="DAO" />
+</Modules>

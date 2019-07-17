@@ -1,0 +1,60 @@
+﻿<controls:MetroWindow x:Class="BodyEnergy.ConfirmarAsistencia"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro" Name="ConfirmAsistW"
+        Title="Confirmación de Asistencia" Height="450" Width="850" WindowStartupLocation="CenterOwner" 
+        WindowStyle="ThreeDBorderWindow"  ResizeMode="NoResize" 
+        ShowInTaskbar="True" Icon="/BodyEnergy;component/Imagenes_Sistema/CLIMB (8).png" Closing="Window_Closing"
+        Topmost="False" 
+        BorderThickness="0" WindowTransitionsEnabled="False">
+    <DockPanel LastChildFill="True">
+        <Border DockPanel.Dock="Top" Height="40" Background="#0A000000">
+            <Label Content="Label" FontSize="20" Foreground="White" Visibility="Hidden" HorizontalContentAlignment="Center" HorizontalAlignment="Center" Name="lbl_MensajeBienvenida" 
+                   VerticalAlignment="Center"/>
+
+        </Border>
+        <Border Height="70" DockPanel.Dock="Bottom" Background="#FFC9C9C9" >
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="16*" />
+                    <ColumnDefinition Width="547*" />
+                    <ColumnDefinition Width="165*" />
+                    <ColumnDefinition Width="114*" />
+                </Grid.ColumnDefinitions>
+                <StackPanel  Orientation="Horizontal" HorizontalAlignment="Right"  Grid.Column="3" Width="66">
+                    <Button Height="56" Style="{DynamicResource MetroCircleButtonStyle}" Background="Transparent"  Margin="0,0,0,0" HorizontalAlignment="Center" Visibility="Visible" Name="btn_Cerrar" VerticalAlignment="Center"
+                        Width="56" Click="btn_Cerrar_Click">
+                        <Image Stretch="Fill"  Height="28" Width="28" Source="/BodyEnergy;component/Imagenes_Sistema/equiz_Red.png" ToolTip="Cerrar" />
+                    </Button>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Visibility="Hidden"  HorizontalAlignment="Left" Grid.Column="1" Width="689" Grid.ColumnSpan="2">
+                    <!--<Label Content="" Margin="0,0,7,0" FontSize="20" HorizontalAlignment="Left" Name="lbl_NombreSocio" VerticalAlignment="Center" FontWeight="Bold"  Grid.Column="1" ToolTip="Socio" />-->
+                    <Label Content="" Margin="0,0,7,0" FontSize="20" HorizontalAlignment="Left" Visibility="Collapsed" Name="lbl_Monto" VerticalAlignment="Center"  FontWeight="Bold"  Grid.Column="1" ToolTip="Monto"/>
+                    <Label Content="" Margin="0,0,7,0" FontSize="20" HorizontalAlignment="Left" Name="lbl_DiaPago" VerticalAlignment="Center" FontWeight="Bold"  Grid.Column="1" ToolTip="Día de Pago" Width="646" />
+                </StackPanel>
+            </Grid>
+        </Border>
+        <Border DockPanel.Dock="Left" Width="275" Background="#0A000000">
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Image Height="258" HorizontalAlignment="Center" Name="img_socio" Stretch="Fill" VerticalAlignment="Top" Width="213" />
+                <!--<Label Content="Label" FontSize="14" Height="28" HorizontalAlignment="Center" Name="lbl_NombreSocio" VerticalAlignment="Top" />
+                <Label Content="Label" FontSize="14" Height="28" HorizontalAlignment="Center"  Name="lbl_Codigo" VerticalAlignment="Top" />-->
+            </StackPanel>
+        </Border>
+        <Border Background="#0A000000">
+            <StackPanel VerticalAlignment="Center">
+                <Label Content="Le recordamos que" Visibility="Collapsed" HorizontalAlignment="Center" FontSize="44" Name="lbl_VenceHoy1" VerticalAlignment="Center" />
+                <Label Content="hoy debe realizar el pago" Visibility="Collapsed" HorizontalAlignment="Center" FontSize="44" Name="lbl_VenceHoy2" VerticalAlignment="Center" />
+                <Label Content="de su mensualidad." Visibility="Collapsed" HorizontalAlignment="Center" FontSize="44" Name="lbl_VenceHoy3" VerticalAlignment="Center" />
+                <Label Content="Gracias por su visita." Visibility="Collapsed" HorizontalAlignment="Center" FontSize="44" Name="lbl_AlDia" VerticalAlignment="Center" />
+                <Label Content="Su mensualidad ha vencido" Foreground="Red"  Visibility="Collapsed" HorizontalAlignment="Center" FontSize="44" Name="lbl_Moroso1" VerticalAlignment="Center" />
+                <Label Content="por favor realice el pago" Foreground="Red" Visibility="Collapsed" HorizontalAlignment="Center" FontSize="44" Name="lbl_Moroso2" VerticalAlignment="Center" />
+                <Label Content="lo más pronto posible." Foreground="Red" Visibility="Collapsed" HorizontalAlignment="Center" FontSize="44" Name="lbl_Moroso3" VerticalAlignment="Center" />
+                <Label Content="Le recordamos que " Visibility="Collapsed" HorizontalAlignment="Center" FontSize="44" Name="lbl_manana1" VerticalAlignment="Center" />
+                <Label Content="el día de mañana" Visibility="Collapsed" HorizontalAlignment="Center" FontSize="44" Name="lbl_manana2" VerticalAlignment="Center" />
+                <Label Content="vence su mensualidad." Visibility="Collapsed" HorizontalAlignment="Center" FontSize="44" Name="lbl_manana3" VerticalAlignment="Center" />
+                <Label Content="Label" FontSize="20" Height="39" HorizontalAlignment="Center" Name="lbl_NombreSocio" VerticalAlignment="Top" />
+            </StackPanel>
+        </Border>
+    </DockPanel>
+</controls:MetroWindow>

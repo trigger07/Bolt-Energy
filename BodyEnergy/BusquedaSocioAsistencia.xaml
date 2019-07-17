@@ -1,0 +1,49 @@
+﻿<controls:MetroWindow x:Class="BodyEnergy.BusquedaSocioAsistencia"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="BSocioAsistW"
+        Title="Búsqueda de Socios" Topmost="False" MaxHeight="500"  MinHeight="478" Height="500"  Width="729" 
+        xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:my1="http://schemas.microsoft.com/wpf/2008/toolkit" SizeToContent="Height" WindowStyle="ThreeDBorderWindow"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen" Icon="/BodyEnergy;component/Imagenes_Sistema/CLIMB (8).png"
+        ShowInTaskbar="True">
+    <DockPanel LastChildFill="True" >
+        <Border DockPanel.Dock="Top" Height="10" Background="#0A000000">
+        </Border>
+        <Border Height="20" DockPanel.Dock="Bottom" Background="#36000000">
+
+        </Border>
+        <Border Background="#0A000000">
+            <Grid>
+                <Label Content="Nombre o Apellidos" FontSize="14" Height="28" HorizontalAlignment="Left" Margin="27,0,0,414" Name="lbl_NombreCompleto" VerticalAlignment="Bottom" Width="228" />
+                <TextBox Height="64" HorizontalAlignment="Left" FontSize="40"  Margin="27,0,0,350" Name="txt_NombreCompleto" VerticalAlignment="Bottom" Width="557" Text="" MaxLength="180" VerticalContentAlignment="Center" ToolTip="Filtro de Nombre de Socio" TabIndex="1" TextChanged="txt_NombreCompleto_TextChanged" />
+                <Button Background="Transparent" Style="{DynamicResource MetroCircleButtonStyle}"  Name="btn_Buscar" ToolTip="Buscar" TabIndex="5" Margin="612,21,0,0" Click="btn_Buscar_Click" Height="73" VerticalAlignment="Top" HorizontalAlignment="Left" Width="72">
+                    <Image Stretch="Fill" Height="30" Width="30" Source="/BodyEnergy;component/Imagenes_Sistema/search_red.png" ToolTip="Buscar" Cursor="Hand" />
+                </Button>
+                <DataGrid  HorizontalAlignment="Left" FontSize="16" Margin="10,0,0,10" ItemsSource="{Binding}" Name="gdv_Socios" VerticalAlignment="Bottom" Width="703" AutoGenerateColumns="False" 
+                       CanUserResizeColumns="True" IsReadOnly="True"  Cursor="Hand" HorizontalContentAlignment="Center" HorizontalScrollBarVisibility="Disabled" 
+                           MouseDoubleClick="gdv_Socios_MouseDoubleClick"
+                           BorderThickness="1" ColumnHeaderHeight="30" BorderBrush="DarkGray" RowHeight="20" Height="323">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Número" Width="100" IsReadOnly="True" Binding="{Binding Numero_Socio}" />
+                        <DataGridTextColumn Header="Nombre Completo" Width="280" IsReadOnly="True" Binding="{Binding Nombre_Completo}"/>
+                        <!--<my1:DataGridTextColumn Header="Teléfono" Width="65" IsReadOnly="True" Binding="{Binding Telefono_Celular}"/>
+                        <my1:DataGridTextColumn Header="Correo" Width="160" IsReadOnly="True" Binding="{Binding Correo}"/>-->
+                        <DataGridTextColumn Header="Fecha Vencimiento" Width="220" IsReadOnly="True" Binding="{Binding Fecha_Vencimiento}"/>
+                        <DataGridCheckBoxColumn Header="Activo" Width="97" IsReadOnly="True" Binding="{Binding Estado_Socio}">
+                        </DataGridCheckBoxColumn >
+                    </DataGrid.Columns>
+                    <DataGrid.RowDetailsTemplate>
+                        <DataTemplate>
+                            <StackPanel  Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,5,0,5">
+                                <Button Name="btn_Asistencia" Width="90" Margin="0,0,10,0" Content="Asistencia" />
+                                <Button Name="btn_Editar" Width="90" Margin="0,0,10,0" Content="Editar" />
+                                <Button Name="btn_Pago" Width="90" Margin="0,0,10,0" Content="Pago" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGrid.RowDetailsTemplate>
+                </DataGrid>
+            </Grid>
+        </Border>
+    </DockPanel>
+</controls:MetroWindow>

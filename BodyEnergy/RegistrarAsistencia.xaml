@@ -1,0 +1,47 @@
+﻿<controls:MetroWindow  x:Class="BodyEnergy.RegistrarAsistencia"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="AsistenciaW"
+        xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="Registrar Asistencia" MinHeight="850" MinWidth="1150" Height="850" Width="1150" WindowStartupLocation="CenterScreen" 
+        WindowStyle="ThreeDBorderWindow" Icon="/BodyEnergy;component/Imagenes_Sistema/CLIMB (8).png" WindowState="Normal" 
+        ResizeMode="CanResize">
+    <DockPanel LastChildFill="True">
+        <Border DockPanel.Dock="Top" Height="318">
+            <Border.Background>
+                <ImageBrush x:Name="bg" ImageSource="Imagenes_Sistema/3.png" Stretch="UniformToFill"/>
+            </Border.Background>
+            <Border VerticalAlignment="Center" Height="345" Background="#FF020202" Margin="0,204,-0.429,-231.286">
+                <Image Source="/BodyEnergy;component/Imagenes_Sistema/logoBolt.jpeg" ToolTip="FitBox" Margin="10,35,-0.429,0" Height="275" VerticalAlignment="Top" />
+            </Border>
+        </Border>
+        <Border Height="60" DockPanel.Dock="Bottom" Background="#FF616161" >
+
+        </Border>
+        <Border Width="940" Margin="0,329,0,0" >
+            <Grid Margin="10,-55,10,-21.429">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="92*"/>
+                    <ColumnDefinition Width="7*"/>
+                    <ColumnDefinition Width="85*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition Height="0*"/>
+                    <RowDefinition Height="0*"/>
+                </Grid.RowDefinitions>
+                <Button Background="White" Style="{DynamicResource MetroCircleButtonStyle}"  Name="BtnBusqueda" TabIndex="3" Margin="285,3,0,0" Grid.Column="2" Click="BtnBusqueda_Click" Height="72" VerticalAlignment="Top" HorizontalAlignment="Left" Width="70" >
+                    <Image Stretch="Fill" Height="30" Width="30"  Source="/BodyEnergy;component/Imagenes_Sistema/search_Red.png" ToolTip="Buscar" Cursor="Hand" />
+                </Button>
+                <TextBox  controls:TextBoxHelper.Watermark="ID" FontSize="70" FontWeight="Bold" HorizontalContentAlignment="Center" 
+                          VerticalContentAlignment="Center" Name="txt_CodSocio" BorderThickness="1,1,1,1"  TabIndex="1" MaxLength="10" Grid.ColumnSpan="3" Margin="252,-87,0,0" KeyDown="txt_CodSocio_KeyDown" Height="141" VerticalAlignment="Top" HorizontalAlignment="Left" Width="410"  />
+
+                <Button Background="White" Style="{DynamicResource MetroCircleButtonStyle}"  Name="BtnIr"  TabIndex="2" Grid.Column="2" Margin="210,3,0,0" Click="BtnIr_Click" HorizontalAlignment="Left" Width="70" Height="72" VerticalAlignment="Top" >
+                    <Image Stretch="Fill" Height="30" Width="30" Source="/BodyEnergy;component/Imagenes_Sistema/save_Red.png" ToolTip="Registrar" Cursor="Hand" />
+                </Button>
+                <Label Content="Label" FontSize="16" Height="34" HorizontalAlignment="Right" Visibility="Hidden"  Name="lbl_NombreUsuarioBD" VerticalAlignment="Center" Grid.Column="2"  FontWeight="Normal" Margin="0,8,0,34" ToolTip="Usuario en Sesión" Width="47" />
+            </Grid>
+
+
+        </Border>
+    </DockPanel>
+</controls:MetroWindow>

@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{609B94E3-B199-4DDB-9D64-9FDEAC2AE5E8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BodyEnergy</RootNamespace>
+    <AssemblyName>BodyEnergy</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>C:\Users\Gerson Trigueros\Desktop\be\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>14F84DC23E2FB9FFB8D0764B4928E4E7552BFA25</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>BodyEnergy_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>climb.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MahApps.Metro, Version=1.2.4.0, Culture=neutral, PublicKeyToken=f4fb5a3c4d1e5b4f, processorArchitecture=MSIL">
+      <HintPath>..\packages\MahApps.Metro.1.2.4.0\lib\net40\MahApps.Metro.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Access, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.interop.access.dao, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Tools.Common.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Tools.Excel.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Practices.ServiceLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Practices.Unity, Version=2.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="Office, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ReuxablesLegacy">
+      <HintPath>bin\ReuxablesLegacy.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Interactivity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\MahApps.Metro.1.2.4.0\lib\net40\System.Windows.Interactivity.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="UIAutomationTypes" />
+    <Reference Include="VIBlend.WPF.Editors, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5f568d4f9cd901f1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\VIBlend.WPF.Editors.dll</HintPath>
+    </Reference>
+    <Reference Include="VIBlend.WPF.Utilities, Version=5.0.0.0, Culture=neutral, PublicKeyToken=d5be5ade8eba591d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\VIBlend.WPF.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WindowsFormsIntegration" />
+    <Reference Include="WPFToolkit, Version=3.5.40128.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="BusquedaAsistencia.xaml.cs">
+      <DependentUpon>BusquedaAsistencia.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BusquedaContactoEmpresa.xaml.cs">
+      <DependentUpon>BusquedaContactoEmpresa.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BusquedaEmpresa.xaml.cs">
+      <DependentUpon>BusquedaEmpresa.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BusquedaSocio.xaml.cs">
+      <DependentUpon>BusquedaSocio.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BusquedaSocioAsistencia.xaml.cs">
+      <DependentUpon>BusquedaSocioAsistencia.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BusquedaTransaccion.xaml.cs">
+      <DependentUpon>BusquedaTransaccion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ConfirmarAsistencia.xaml.cs">
+      <DependentUpon>ConfirmarAsistencia.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ContactoEmpresa.xaml.cs">
+      <DependentUpon>ContactoEmpresa.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Main.xaml.cs">
+      <DependentUpon>Main.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarAsistencia.xaml.cs">
+      <DependentUpon>RegistrarAsistencia.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\Gym.Service\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Socio.xaml.cs">
+      <DependentUpon>Socio.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Transaccion.xaml.cs">
+      <DependentUpon>Transaccion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VariablesGlobales.cs" />
+    <Page Include="BusquedaAsistencia.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="BusquedaContactoEmpresa.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="BusquedaEmpresa.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="BusquedaSocio.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="BusquedaSocioAsistencia.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="BusquedaTransaccion.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ConfirmarAsistencia.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ContactoEmpresa.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Empresa.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Login.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Empresa.xaml.cs">
+      <DependentUpon>Empresa.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Login.xaml.cs">
+      <DependentUpon>Login.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Main.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RegistrarAsistencia.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Icons.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\IconsNonShared.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Socio.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Transaccion.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\Data.DTO.CategoriaPagoDTO.datasource" />
+    <None Include="Properties\DataSources\Data.DTO.ContactoEmpresaDTO.datasource" />
+    <None Include="Properties\DataSources\Data.DTO.EmpresaDTO.datasource" />
+    <None Include="Properties\DataSources\Data.DTO.FechaVencimientoDTO.datasource" />
+    <None Include="Properties\DataSources\Data.DTO.SeguridadDTO.datasource" />
+    <None Include="Properties\DataSources\Data.DTO.SocioDTO.datasource" />
+    <None Include="Properties\DataSources\Data.DTO.TipoPagoDTO.datasource" />
+    <None Include="Properties\DataSources\Data.DTO.TipoSocioDTO.datasource" />
+    <None Include="Properties\DataSources\Data.DTO.TransaccionDTO.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+    <None Include="Service References\Gym.Service\SoapService.wsdl" />
+    <None Include="Service References\Gym.Service\SoapService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Gym.Service\SoapService1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Gym.Service\SoapService2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Gym.Service\SoapService3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <Resource Include="Resources\Entypo.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{f896c38c-4d37-4e43-86c8-305e489a6fcf}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{79D32664-E4B3-4962-8BE2-341B94AE8BEE}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagen_Temp\Logo 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagen_Temp\Logo.JPG" />
+    <Resource Include="Imagen_Temp\normal_pesadillasmanudas.jpg" />
+    <Resource Include="Imagen_Temp\viejo E.jpg" />
+    <Resource Include="Imagen_Temp\wp-saprissa10p.jpg" />
+    <Resource Include="Imagen_Temp\wp-saprissa18p.jpg" />
+    <Resource Include="Imagen_Temp\wp-saprissa19p.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Imagenes_Socios\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\borrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\WindowsIcons-license.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Entypo-license.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\appbar.people.arrow.right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\appbar.people.checkbox.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\appbar.city.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\appbar.currency.cent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\appbar.at.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\appbar.clipboard.variant.edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\appbar.arrow.right.left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\appbar.clipboard.variant.text.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\appbar.calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\appbar.people.magnify.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\appbar.billing.png" />
+    <Resource Include="Imagenes_Sistema\appbar.magnify.browse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\save_Red.png" />
+    <Resource Include="Imagenes_Sistema\save_Steel.png" />
+    <Resource Include="Imagenes_Sistema\search_Red.png" />
+    <Resource Include="Imagenes_Sistema\search_Steel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\equiz_Red.png" />
+    <Resource Include="Imagenes_Sistema\trash_Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\excel-file2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\CLIMB %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\CLIMB %288%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\Gym.Service\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Gym.Service\SoapService.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Gym.Service\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Gym.Service\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Gym.Service\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="climb.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\gymBolt.jpeg" />
+    <Resource Include="Imagenes_Sistema\logoBolt.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\bolt.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes_Sistema\2.PNG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

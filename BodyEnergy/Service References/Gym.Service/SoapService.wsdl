@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="SoapService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:51379/SoapService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:51379/SoapService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:51379/SoapService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Data.DTO" />
+      <xsd:import schemaLocation="http://localhost:51379/SoapService.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/Common" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ISoapService_ObtenerUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerUsuario" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerAsistenciasBusqueda_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerAsistenciasBusqueda" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerAsistenciasBusqueda_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerAsistenciasBusquedaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_BorrarAsistencia_InputMessage">
+    <wsdl:part name="parameters" element="tns:BorrarAsistencia" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_BorrarAsistencia_OutputMessage">
+    <wsdl:part name="parameters" element="tns:BorrarAsistenciaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_SaveAttendance_InputMessage">
+    <wsdl:part name="parameters" element="tns:SaveAttendance" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_SaveAttendance_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SaveAttendanceResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerContactoEmpresasBusqueda_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerContactoEmpresasBusqueda" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerContactoEmpresasBusqueda_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerContactoEmpresasBusquedaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerTodosEmpresa_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerTodosEmpresa" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerTodosEmpresa_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerTodosEmpresaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerEmpresasBusqueda_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerEmpresasBusqueda" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerEmpresasBusqueda_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerEmpresasBusquedaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerContacto_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerContacto" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerContacto_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerContactoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_SaveContact_InputMessage">
+    <wsdl:part name="parameters" element="tns:SaveContact" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_SaveContact_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SaveContactResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_SaveEnterprise_InputMessage">
+    <wsdl:part name="parameters" element="tns:SaveEnterprise" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_SaveEnterprise_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SaveEnterpriseResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerEmpresa_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerEmpresa" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerEmpresa_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerEmpresaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerTipoSocio_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerTipoSocio" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerTipoSocio_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerTipoSocioResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerTodosTipoSocio_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerTodosTipoSocio" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerTodosTipoSocio_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerTodosTipoSocioResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerSociosBusqueda_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerSociosBusqueda" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerSociosBusqueda_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerSociosBusquedaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerSocio_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerSocio" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerSocio_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerSocioResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerFecha_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerFecha" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerFecha_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerFechaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerFecVencimiento_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerFecVencimiento" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerFecVencimiento_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerFecVencimientoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_SaveExpireDate_InputMessage">
+    <wsdl:part name="parameters" element="tns:SaveExpireDate" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_SaveExpireDate_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SaveExpireDateResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_SaveSocio_InputMessage">
+    <wsdl:part name="parameters" element="tns:SaveSocio" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_SaveSocio_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SaveSocioResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerTransaccionesBusqueda_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerTransaccionesBusqueda" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerTransaccionesBusqueda_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerTransaccionesBusquedaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_BorrarTransaccion_InputMessage">
+    <wsdl:part name="parameters" element="tns:BorrarTransaccion" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_BorrarTransaccion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:BorrarTransaccionResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerMontoSocio_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerMontoSocio" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerMontoSocio_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerMontoSocioResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerTransaccion_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerTransaccion" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerTransaccion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerTransaccionResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_SaveTransaction_InputMessage">
+    <wsdl:part name="parameters" element="tns:SaveTransaction" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_SaveTransaction_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SaveTransactionResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerTodosTiposPago_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerTodosTiposPago" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerTodosTiposPago_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerTodosTiposPagoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerTodasCatPago_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerTodasCatPago" />
+  </wsdl:message>
+  <wsdl:message name="ISoapService_ObtenerTodasCatPago_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerTodasCatPagoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ISoapService">
+    <wsdl:operation name="ObtenerUsuario">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/ObtenerUsuario" message="tns:ISoapService_ObtenerUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/ObtenerUsuarioResponse" message="tns:ISoapService_ObtenerUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerAsistenciasBusqueda">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/ObtenerAsistenciasBusqueda" message="tns:ISoapService_ObtenerAsistenciasBusqueda_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/ObtenerAsistenciasBusquedaResponse" message="tns:ISoapService_ObtenerAsistenciasBusqueda_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="BorrarAsistencia">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/BorrarAsistencia" message="tns:ISoapService_BorrarAsistencia_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/BorrarAsistenciaResponse" message="tns:ISoapService_BorrarAsistencia_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SaveAttendance">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/SaveAttendance" message="tns:ISoapService_SaveAttendance_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/SaveAttendanceResponse" message="tns:ISoapService_SaveAttendance_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerContactoEmpresasBusqueda">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/ObtenerContactoEmpresasBusqueda" message="tns:ISoapService_ObtenerContactoEmpresasBusqueda_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/ObtenerContactoEmpresasBusquedaResponse" message="tns:ISoapService_ObtenerContactoEmpresasBusqueda_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerTodosEmpresa">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/ObtenerTodosEmpresa" message="tns:ISoapService_ObtenerTodosEmpresa_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/ObtenerTodosEmpresaResponse" message="tns:ISoapService_ObtenerTodosEmpresa_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerEmpresasBusqueda">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/ObtenerEmpresasBusqueda" message="tns:ISoapService_ObtenerEmpresasBusqueda_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/ObtenerEmpresasBusquedaResponse" message="tns:ISoapService_ObtenerEmpresasBusqueda_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerContacto">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/ObtenerContacto" message="tns:ISoapService_ObtenerContacto_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/ObtenerContactoResponse" message="tns:ISoapService_ObtenerContacto_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SaveContact">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/SaveContact" message="tns:ISoapService_SaveContact_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/SaveContactResponse" message="tns:ISoapService_SaveContact_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SaveEnterprise">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/SaveEnterprise" message="tns:ISoapService_SaveEnterprise_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/SaveEnterpriseResponse" message="tns:ISoapService_SaveEnterprise_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerEmpresa">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/ObtenerEmpresa" message="tns:ISoapService_ObtenerEmpresa_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/ObtenerEmpresaResponse" message="tns:ISoapService_ObtenerEmpresa_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerTipoSocio">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/ObtenerTipoSocio" message="tns:ISoapService_ObtenerTipoSocio_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/ObtenerTipoSocioResponse" message="tns:ISoapService_ObtenerTipoSocio_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerTodosTipoSocio">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/ObtenerTodosTipoSocio" message="tns:ISoapService_ObtenerTodosTipoSocio_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/ObtenerTodosTipoSocioResponse" message="tns:ISoapService_ObtenerTodosTipoSocio_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerSociosBusqueda">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/ObtenerSociosBusqueda" message="tns:ISoapService_ObtenerSociosBusqueda_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/ObtenerSociosBusquedaResponse" message="tns:ISoapService_ObtenerSociosBusqueda_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerSocio">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/ObtenerSocio" message="tns:ISoapService_ObtenerSocio_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/ObtenerSocioResponse" message="tns:ISoapService_ObtenerSocio_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerFecha">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/ObtenerFecha" message="tns:ISoapService_ObtenerFecha_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/ObtenerFechaResponse" message="tns:ISoapService_ObtenerFecha_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerFecVencimiento">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/ObtenerFecVencimiento" message="tns:ISoapService_ObtenerFecVencimiento_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/ObtenerFecVencimientoResponse" message="tns:ISoapService_ObtenerFecVencimiento_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SaveExpireDate">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/SaveExpireDate" message="tns:ISoapService_SaveExpireDate_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/SaveExpireDateResponse" message="tns:ISoapService_SaveExpireDate_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SaveSocio">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/SaveSocio" message="tns:ISoapService_SaveSocio_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/SaveSocioResponse" message="tns:ISoapService_SaveSocio_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerTransaccionesBusqueda">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/ObtenerTransaccionesBusqueda" message="tns:ISoapService_ObtenerTransaccionesBusqueda_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/ObtenerTransaccionesBusquedaResponse" message="tns:ISoapService_ObtenerTransaccionesBusqueda_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="BorrarTransaccion">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/BorrarTransaccion" message="tns:ISoapService_BorrarTransaccion_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/BorrarTransaccionResponse" message="tns:ISoapService_BorrarTransaccion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerMontoSocio">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/ObtenerMontoSocio" message="tns:ISoapService_ObtenerMontoSocio_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/ObtenerMontoSocioResponse" message="tns:ISoapService_ObtenerMontoSocio_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerTransaccion">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/ObtenerTransaccion" message="tns:ISoapService_ObtenerTransaccion_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/ObtenerTransaccionResponse" message="tns:ISoapService_ObtenerTransaccion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SaveTransaction">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/SaveTransaction" message="tns:ISoapService_SaveTransaction_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/SaveTransactionResponse" message="tns:ISoapService_SaveTransaction_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerTodosTiposPago">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/ObtenerTodosTiposPago" message="tns:ISoapService_ObtenerTodosTiposPago_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/ObtenerTodosTiposPagoResponse" message="tns:ISoapService_ObtenerTodosTiposPago_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerTodasCatPago">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISoapService/ObtenerTodasCatPago" message="tns:ISoapService_ObtenerTodasCatPago_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISoapService/ObtenerTodasCatPagoResponse" message="tns:ISoapService_ObtenerTodasCatPago_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_ISoapService" type="tns:ISoapService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ObtenerUsuario">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/ObtenerUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerAsistenciasBusqueda">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/ObtenerAsistenciasBusqueda" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BorrarAsistencia">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/BorrarAsistencia" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SaveAttendance">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/SaveAttendance" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerContactoEmpresasBusqueda">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/ObtenerContactoEmpresasBusqueda" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerTodosEmpresa">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/ObtenerTodosEmpresa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerEmpresasBusqueda">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/ObtenerEmpresasBusqueda" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerContacto">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/ObtenerContacto" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SaveContact">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/SaveContact" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SaveEnterprise">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/SaveEnterprise" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerEmpresa">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/ObtenerEmpresa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerTipoSocio">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/ObtenerTipoSocio" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerTodosTipoSocio">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/ObtenerTodosTipoSocio" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerSociosBusqueda">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/ObtenerSociosBusqueda" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerSocio">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/ObtenerSocio" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerFecha">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/ObtenerFecha" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerFecVencimiento">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/ObtenerFecVencimiento" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SaveExpireDate">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/SaveExpireDate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SaveSocio">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/SaveSocio" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerTransaccionesBusqueda">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/ObtenerTransaccionesBusqueda" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BorrarTransaccion">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/BorrarTransaccion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerMontoSocio">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/ObtenerMontoSocio" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerTransaccion">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/ObtenerTransaccion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SaveTransaction">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/SaveTransaction" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerTodosTiposPago">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/ObtenerTodosTiposPago" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerTodasCatPago">
+      <soap:operation soapAction="http://tempuri.org/ISoapService/ObtenerTodasCatPago" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SoapService">
+    <wsdl:port name="BasicHttpBinding_ISoapService" binding="tns:BasicHttpBinding_ISoapService">
+      <soap:address location="http://localhost:51379/SoapService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

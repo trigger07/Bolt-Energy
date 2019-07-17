@@ -1,0 +1,81 @@
+﻿<controls:MetroWindow x:Class="BodyEnergy.Transaccion"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="TransaccionW"
+        Title="Pagos" Height="425" Width="650" xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:my2="http://schemas.microsoft.com/wpf/2008/toolkit" Icon="/BodyEnergy;component/Imagenes_Sistema/CLIMB (8).png"
+        ResizeMode="NoResize" ShowInTaskbar="True" Topmost="False" WindowStartupLocation="CenterScreen" 
+                      xmlns:viblendEditors="clr-namespace:VIBlend.WPF.Controls;assembly=VIBlend.WPF.Editors"
+        WindowStyle="ThreeDBorderWindow" Closing="Window_Closing">
+    <DockPanel LastChildFill="True" >
+        <Border DockPanel.Dock="Top" Height="20" Background="#0A000000">
+        </Border>
+        <Border Height="70" DockPanel.Dock="Bottom" Background="#36000000">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="22*" />
+                    <ColumnDefinition Width="301*" />
+                    <ColumnDefinition Width="303*" />
+                </Grid.ColumnDefinitions>
+                <Button Content="¿Olvidó el número de Socio?" Foreground="#FFB80000" Background="Transparent" Height="30" Width="200" 
+                        HorizontalAlignment="Center"  Name="btn_Olvido" VerticalAlignment="Center"  Click="btn_Olvido_Click" 
+                        ToolTip="Recordar Número de Socio" FontWeight="Bold" FontSize="13" BorderThickness="0" 
+                        Grid.Column="1" Cursor="Hand" TabIndex="9">
+                    <Button.BorderBrush>
+                        <SolidColorBrush />
+                    </Button.BorderBrush>
+                </Button>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Grid.Column="2" >
+
+                    <Button Height="50" Background="Transparent" Style="{DynamicResource MetroCircleButtonStyle}" HorizontalAlignment="Center" Margin="0,0,0,0" Name="btn_Guardar" VerticalAlignment="Center" Width="50" Click="btn_Guardar_Click" TabIndex="10">
+                        <Image Stretch="Fill" Height="25" Width="25" Source="/BodyEnergy;component/Imagenes_Sistema/save_Red.png" ToolTip="Guardar Datos" Cursor="Hand" />
+                    </Button>
+                    <Button Height="50" Margin="0,0,0,0" Background="Transparent" Style="{DynamicResource MetroCircleButtonStyle}" HorizontalAlignment="Center" Name="btn_Actualizar" VerticalAlignment="Center" Width="50" Click="btn_Actualizar_Click" TabIndex="11">
+                        <Image Stretch="Fill" Height="25" Width="25" Source="/BodyEnergy;component/Imagenes_Sistema/save_red.png" ToolTip="Actualizar Datos" Cursor="Hand" />
+                    </Button>
+                    <Button Margin="0,0,0,0" Background="Transparent" Style="{DynamicResource MetroCircleButtonStyle}" Height="50" HorizontalAlignment="Center" Name="btn_Limpiar" VerticalAlignment="Center" Width="50" Click="btn_Limpiar_Click" TabIndex="12">
+                        <Image Stretch="Fill" Height="25" Width="25" Source="/BodyEnergy;component/Imagenes_Sistema/trash_Red.png" ToolTip="Limpiar Controles" Cursor="Hand" />
+                    </Button>
+                    <Button Height="50" Background="Transparent" Style="{DynamicResource MetroCircleButtonStyle}" Margin="0,0,5,0" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Name="btn_Salir" Click="btn_Salir_Click" TabIndex="13">
+                        <Image Stretch="Fill" Height="25" Width="25" Source="/BodyEnergy;component/Imagenes_Sistema/equiz_red.png" ToolTip="Cerrar Ventana" Cursor="Hand" />
+                    </Button>
+                </StackPanel>
+            </Grid>
+        </Border>
+        <Border Background="#0A000000">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="59" />
+                    <RowDefinition Height="1" />
+                    <RowDefinition Height="Auto" MinHeight="28" />
+                    <RowDefinition Height="Auto" MinHeight="32" />
+                    <RowDefinition Height="Auto" MinHeight="34" />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200*" />
+                    <ColumnDefinition Width="200*" />
+                    <ColumnDefinition Width="176*" />
+                </Grid.ColumnDefinitions>
+                <Label Content="Detalle" FontSize="14" Height="28" HorizontalAlignment="Left"  Name="lbl_Detalle" VerticalAlignment="Top" Margin="22,6,0,0" Width="53" />
+                <TextBox  Height="32" HorizontalAlignment="Left"  Name="txt_Detalle" VerticalAlignment="Top" Width="384" Margin="22,0,0,0" Grid.ColumnSpan="2" Grid.Row="1" ToolTip="Detalle del Pago" MaxLength="90" FontSize="14" VerticalContentAlignment="Center" TabIndex="1" />
+                <Label Content="Monto" FontSize="14" Height="28" HorizontalAlignment="Left"  Name="lbl_Monto" VerticalAlignment="Top" Margin="3,6,0,0" Grid.Column="2" Width="52" />
+                <!--<TextBox  Height="94" HorizontalAlignment="Left"  Name="txt_Monto" VerticalAlignment="Top" Width="167" Margin="3,0,0,0" Grid.Row="1" Grid.Column="2" Grid.RowSpan="3" BorderBrush="#FFB80000" ToolTip="Monto a Cancelar" KeyDown="txt_Monto_KeyDown" FontSize="35" VerticalContentAlignment="Center" TabIndex="7" HorizontalContentAlignment="Center" />-->
+                <viblendEditors:NumberEditor CultureInfo="en-US"  HorizontalAlignment="Left"  Name="txt_Monto"  Height="94" TextWrapping="Wrap" VerticalAlignment="Top" Width="167"  Margin="3,0,0,0" Grid.Row="1" Grid.Column="2" Grid.RowSpan="3" BorderBrush="#FFB80000" ToolTip="Monto a Cancelar" KeyDown="txt_Monto_KeyDown" FontSize="28" VerticalContentAlignment="Center" TabIndex="7" HorizontalContentAlignment="Right"/>
+                <Label Content="Tipo de Pago" FontSize="14" Height="28" HorizontalAlignment="Left"  Name="lbl_TipoPago" VerticalAlignment="Top" Margin="21,4,0,0" Grid.Row="2" Width="92" />
+                <Label Content="Período de Pago" FontSize="14"  Height="28" HorizontalAlignment="Left"  Name="lbl_PeriodoPago" VerticalAlignment="Top" Grid.Column="1" Margin="5,4,0,0" Grid.Row="2" Width="113" />
+                <ComboBox Name="cbo_TipoPago" Height="29" HorizontalAlignment="Left" VerticalAlignment="Top" Width="169"  Margin="22,31,0,0" Grid.Row="2" BorderBrush="#FFB80000" SelectionChanged="cbo_TipoPago_SelectionChanged" ToolTip="Tipo de Pago" FontSize="14" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" TabIndex="2" Background="White" />
+                <ComboBox  Height="29" HorizontalAlignment="Left" Name="cbo_PeriodoPago" VerticalAlignment="Top" Width="176" Grid.Column="1" Margin="5,31,0,0" Grid.Row="2" BorderBrush="#FFB80000" ToolTip="Período a Cancelar" IsReadOnly="True" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" FontSize="14" TabIndex="3" Background="White" SelectionChanged="cbo_PeriodoPago_SelectionChanged" />
+                <Label Content="Número Recibo" FontSize="14" Height="28" HorizontalAlignment="Right"  Name="lbl_NumeroRecibo" VerticalAlignment="Top" Margin="0,0,87,0" Grid.Row="4" Grid.Column="2" Width="107" />
+                <Label Content="Comprobante" FontSize="14" Height="28" HorizontalAlignment="Left" Name="lbl_Comprobante" VerticalAlignment="Top" Margin="22,0,0,0" Grid.Row="4" Width="96" />
+                <Label Content="Socio" FontSize="14" Height="28" HorizontalAlignment="Left"   VerticalAlignment="Top"  Margin="5,0,0,0" Grid.Column="1" Grid.Row="4" Width="44" />
+                <TextBox Height="99" HorizontalAlignment="Left" Name="txt_Socio" VerticalAlignment="Top" Width="177" Grid.Column="1" Margin="5,0,0,0" Grid.Row="5" Grid.RowSpan="3" BorderBrush="#FFB80000" ToolTip="Número de Socio" KeyDown="txt_Socio_KeyDown" FontSize="35" VerticalContentAlignment="Center" TabIndex="8" HorizontalContentAlignment="Center" />
+                <TextBox  Height="99" HorizontalAlignment="Left"  Name="txt_NumeroRecibo" VerticalAlignment="Top" Width="167" Grid.Row="5" ToolTip="Número de Recibo del Gimnasio" HorizontalContentAlignment="Center" MaxLength="40" VerticalContentAlignment="Center" FontSize="30" TabIndex="4" Grid.Column="2" Margin="3,0,0,0" Grid.RowSpan="3" />
+                <TextBox Height="32" HorizontalAlignment="Left"  Name="txt_Comprobante" VerticalAlignment="Top" Width="169" Margin="22,0,0,0" Grid.Row="5" ToolTip="Número de Voucher" MaxLength="40" FontSize="14" VerticalContentAlignment="Center" TabIndex="5" />
+                <Label Content="Fecha de Vencimiento" FontSize="14" Height="28" HorizontalAlignment="Left"  Name="lbl_FechaVencimiento" VerticalAlignment="Top" Margin="21,6,0,0" Grid.Row="6" Width="146" />
+                <my2:DatePicker  HorizontalAlignment="Left"  Name="dpc_FechaVencimiento"  VerticalAlignment="Top" Width="169" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Center" Background="White" FontWeight="Normal" Margin="22,1,0,0" Grid.Row="7" BorderBrush="#FFB80000" Height="32" ToolTip="Fecha de Vencimiento de la Mensualidad" FlowDirection="LeftToRight" TabIndex="6" FontSize="14" />
+            </Grid>
+        </Border>
+    </DockPanel>
+</controls:MetroWindow>
